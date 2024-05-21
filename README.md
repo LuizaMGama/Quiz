@@ -1,8 +1,5 @@
-# React + Vite
+# Quiz
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/LuizaMGama/Quiz/assets/164073139/4ead96e5-53b1-42ee-8dee-5239301240ec)
+Prototipagem do projeto de acordo com as instruções do professor Jailson Costa. [Veja-o aqui!](https://quiz-navy-nine.vercel.app/)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
